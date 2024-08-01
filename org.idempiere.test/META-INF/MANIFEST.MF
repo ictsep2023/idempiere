@@ -36,4 +36,3 @@ Bundle-Activator: org.idempiere.test.TestActivator
 Bundle-RequiredExecutionEnvironment: JavaSE-11
 Export-Package: org.idempiere.test
 Bundle-ClassPath: .
-Service-Component: OSGI-INF/org.idempiere.test.event.MyComponent.xml
